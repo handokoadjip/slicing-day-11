@@ -111,7 +111,7 @@ a:hover {
 }
 
 .-ms-20px {
-	margin-left: -20px;
+	margin-left: -20px !important;
 }
 
 .min-vh-50 {
